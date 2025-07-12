@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="200" height="200" viewBox="0 0 200 200">
+  <title>GoalSip Logo</title>
+  <desc>BIMI-compliant SVG logo for GoalSip</desc>
+  <g fill="#F4F2EE">
+    <path d="M100 10 L90 30 H110 Z" /> <!-- stylized drop top -->
+    <circle cx="100" cy="100" r="50" fill="#0A1A2F"/>
+    <circle cx="100" cy="100" r="30" fill="#F4F2EE"/>
+    <text x="100" y="180" font-size="20" text-anchor="middle" fill="#F4F2EE" font-family="Arial">GOALSIP</text>
+  </g>
+</svg>
